@@ -4,3 +4,4 @@ backgroundColor = "#2B2B2B"
 secondaryBackgroundColor = "#444654"
 textColor = "#C0C0C0"
 font = "monospace"
+st.secrets["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"]
